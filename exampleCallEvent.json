@@ -1,0 +1,18 @@
+{
+  "id": "42",
+  "direction": "OUT",
+  "from": "+4915799912345",
+  "to": "+491781234567",
+  "start": 1554465950508,
+  "end": 1554465970508,
+  "user": {
+    "id": "42",
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "email": "jane@example.com"
+  },
+  "channel": {
+    "id": "42",
+    "name": "Awesome channel"
+  }
+}
