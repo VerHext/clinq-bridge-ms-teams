@@ -27,6 +27,7 @@
     "@types/node": "^12.0.10",
     "express": "^4.17.1",
     "google-libphonenumber": "^3.2.2",
+    "ms-teams-webhook": "^1.0.3",
     "typescript": "^3.5.2"
   },
   "devDependencies": {
